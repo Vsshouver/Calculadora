@@ -18,5 +18,5 @@ Uma calculadora básica em Python que suporta operações de adição, subtraç�
 1. **Clone o repositório:**
 
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/Vsshoouver/calculadora.git
 
